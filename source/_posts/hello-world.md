@@ -1,9 +1,11 @@
 ---
-title: Hello World
+title: 你好，麻二
 ---
+# 欢迎来到野人的空间：[金牌厨师张！](https://space.bilibili.com/485306286?spm_id_from=333.1387.follow.user_card.click)
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
+
 <div class="photo-gallery" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
         <img src="/img/MaEr.png" alt="MaEr" style="width: 100%; height: auto;" />
