@@ -13,10 +13,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
         <img src="/img/MaEr.png" alt="MaEr" style="width: 100%; height: auto;" />
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
-        <img src="/img/GH.JPG" alt="GH" style="width: 100%; height: auto;" />
+        <img src="/img/GH.png" alt="GH" style="width: 100%; height: auto;" />
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
-        <img src="/img/AHU.JPG" alt="AHU" style="width: 100%; height: auto;" />
+        <img src="/img/AHU.png" alt="AHU" style="width: 100%; height: auto;" />
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
         <img src="/img/MaEr.png" alt="MaEr" style="width: 100%; height: auto;" />
@@ -26,8 +26,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### 快速展示
 <div class="gallery">
     <img src="/img/MaEr.png" alt="Photo 1">
-    <img src="/img/AHU.JPG" alt="Photo 2">
-    <img src="/img/GH.JPG" alt="Photo 3">
+    <img src="/img/AHU.png" alt="Photo 2">
+    <img src="/img/GH.png" alt="Photo 3">
 </div>
 
 ``` bash
