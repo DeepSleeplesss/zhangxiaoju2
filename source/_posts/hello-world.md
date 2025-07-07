@@ -1,6 +1,8 @@
 ---
 title: 你好，麻二
+date: 2025-07-07
 ---
+
 # 欢迎来到野人的空间：[金牌厨师张！](https://space.bilibili.com/485306286?spm_id_from=333.1387.follow.user_card.click)
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -21,7 +23,12 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
     </div>
 </div>
 
-### Create a new post
+### 快速展示
+<div class="gallery">
+    <img src="/img/MaEr.png" alt="Photo 1">
+    <img src="/img/AHU.JPG" alt="Photo 2">
+    <img src="/img/GH.JPG" alt="Photo 3">
+</div>
 
 ``` bash
 $ hexo new "My New Post"
