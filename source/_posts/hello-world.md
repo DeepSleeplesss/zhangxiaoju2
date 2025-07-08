@@ -16,21 +16,23 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
         <img src="/img/GH.png" alt="GH" style="width: 100%; height: auto;" />
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
-        <img src="/img/AHU.png" alt="AHU" style="width: 100%; height: auto;" />
+        <a href="https://www.bilibili.com/video/BV1aF3ZzZEYN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7052dc48a1cc7a65a1fd2d9228568092" target="_blank">
+            <img src="/img/heyemaer.jpg" alt="heyemaer" style="width: auto; height: 60%;" />
+         </a>
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
         <img src="/img/MaEr.png" alt="MaEr" style="width: 100%; height: auto;" />
     </div>
 </div>
 
-### 快速展示
+<!-- ### 快速展示
 <div class="gallery">
     <img src="/img/MaEr.png" alt="Photo 1">
-    <img src="/img/AHU.png" alt="Photo 2">
+    <img src="/img/heyemaer.jpg" alt="Photo 2">
     <img src="/img/GH.png" alt="Photo 3">
-</div>
+</div> -->
 
-``` bash
+<!-- ``` bash
 $ hexo new "My New Post"
 ```
 
@@ -58,4 +60,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) -->
