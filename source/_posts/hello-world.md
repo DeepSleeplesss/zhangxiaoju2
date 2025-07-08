@@ -13,7 +13,7 @@ date: 2025-07-07
         <img src="/img/MaEr.png" alt="MaEr" style="width: 100%; height: auto;" />
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
-        <img src="/img/GH.png" alt="GH" style="width: 100%; height: auto;" />
+        <img src="https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250708/Emn9/2022X1348/GH.png" alt="GH" style="width: 100%; height: auto;" />
     </div>
     <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
         <a href="https://www.bilibili.com/video/BV1aF3ZzZEYN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7052dc48a1cc7a65a1fd2d9228568092" target="_blank">
