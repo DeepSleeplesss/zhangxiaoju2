@@ -4,7 +4,7 @@ date: 2025-07-07
 ---
 
 # 欢迎来到野人的空间：[金牌厨师张！](https://space.bilibili.com/485306286?spm_id_from=333.1387.follow.user_card.click)
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+喜欢这些照片，可以点击照片，可直达野人评论区
 
 ## Quick Start
 

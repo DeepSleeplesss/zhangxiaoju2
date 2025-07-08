@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ""
 google_analytics: ""
-favicon: /favicon.png
+favicon: https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250708/4Hgb/640X360/MaEr.png
 
 #你的头像url
-avatar:
+avatar: https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250708/4Hgb/640X360/MaEr.png
 
 #是否开启分享
 share_jia: true
@@ -108,7 +108,7 @@ style:
 slider:
   # 是否默认展开tags板块
   showTags: false
-gallery: true
+# 增加了图片页面
 # 智能菜单
 # 如不需要，将该对应项置为false
 # 比如
