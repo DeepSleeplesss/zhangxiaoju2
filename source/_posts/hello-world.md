@@ -56,6 +56,17 @@ date: 2025-07-07
         <img src="https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250708/iYi4/%E5%B7%B4%E9%BB%8E%E9%BA%BB%E4%BA%8C.avif" alt="MaEr" style="width: 95%; height: auto;" />
         </a>
     </div>
+    <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
+            <a href="https://www.bilibili.com/video/BV1mW3nz2EJJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7052dc48a1cc7a65a1fd2d9228568092" target="_blank">
+        <img src="https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250709/T8YK/4032X3024/%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F.jpg   " alt="MaEr" style="width: 95%; height: auto;" />
+        </a>
+    </div>
+        <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
+            <a href="https://www.bilibili.com/video/BV1mW3nz2EJJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7052dc48a1cc7a65a1fd2d9228568092" target="_blank">
+        <img src="https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250709/rlnc/1028X1107/o.0.png" alt="MaEr" style="width: 95%; height: auto;" />
+        </a>
+    </div>
+    
 </div>
 
 
