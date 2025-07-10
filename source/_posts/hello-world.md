@@ -66,7 +66,11 @@ date: 2025-07-07
         <img src="https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250709/rlnc/1028X1107/o.0.png" alt="MaEr" style="width: 95%; height: auto;" />
         </a>
     </div>
-    
+    <div class="photo-item" style="flex: 0 0 calc(50% - 5px);">
+        <a href="https://www.bilibili.com/video/BV1E2Kvz8EJk/?spm_id_from=333.1387.upload.video_card.click&vd_source=7052dc48a1cc7a65a1fd2d9228568092" target="_blank">
+    <img src="https://tc.z.wiki/autoupload/f/i7zWETZ7E39R7ELPxM7oHJHf9Gmighv70TVhT95NnIKyl5f0KlZfm6UsKj-HyTuv/20250710/7395/1209X743/%E5%A4%A7%E9%87%91%E9%93%BE%E5%AD%90%E8%8A%B1%E6%A4%92.jpg" alt="MaEr" style="width: 95%; height: auto;" />
+    </a>
+</div>
 </div>
 
 
